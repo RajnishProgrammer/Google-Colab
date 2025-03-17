@@ -14,3 +14,9 @@ A deep learning-based music recommender using TensorFlow and Spotify data.
 
 ## 👷‍♂️ Installation Guide
 Go to Notebook (colab) all instructions are there, run according to that.
+
+
+# 📈 Stock Data Processing 
+
+
+# 📊 RFM-Analysis Online Retail Data Clustering Analysis
