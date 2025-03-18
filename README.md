@@ -18,8 +18,10 @@ A deep learning-based music recommender using TensorFlow and Spotify data.
 
 # 📈 Stock Data Processing 
 
-## 🚀 Features
-
-## 📌 Tech Stack
+    ## 🚀 Features
+    
+    ## 📌 Tech Stack
+    
+    ## 👷‍♂️ Installation Guide
 
 # 📊 RFM-Analysis Online Retail Data Clustering Analysis
