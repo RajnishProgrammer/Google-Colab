@@ -20,4 +20,6 @@ Go to Notebook (colab) all instructions are there, run according to that.
 
 ## 🚀 Features
 
+## 📌 Tech Stack
+
 # 📊 RFM-Analysis Online Retail Data Clustering Analysis
